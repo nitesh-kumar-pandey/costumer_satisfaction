@@ -67,14 +67,14 @@ app.config['MYSQL_PASSWORD'] = 'your_password'
 
 ## ✨ Example Use Cases
 ### ✅ Predict Satisfaction
-• Input: Age: 29, Flight Distance: 1200, Cleanliness: 4, Delay: 5 mins
-• Class: ECO
-• Output: "SATISFIED"
+• Input: Age: 29, Flight Distance: 1200, Cleanliness: 4, Delay: 5 mins <br>
+• Class: ECO<br>
+• Output: "SATISFIED"<br>
 
 ### ❌ Predict Dissatisfaction
-• Input: Age: 52, Delay: 80 mins, Entertainment: 1, Baggage Handling: 2
-• Class: BUSINESS
-• Output: "DISATISFIED"
+• Input: Age: 52, Delay: 80 mins, Entertainment: 1, Baggage Handling: 2<br>
+• Class: BUSINESS<br>
+• Output: "DISATISFIED"<br>
 
 ---
 
